@@ -1,0 +1,38 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdness/Backend-Coder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "nodemon": "^2.0.20"
+  },
+  "bugs": {
+    "url": "https://github.com/mdness/Backend-Coder/issues"
+  },
+  "homepage": "https://github.com/mdness/Backend-Coder#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-handlebars": "^6.0.6",
+    "express-validator": "^6.14.2",
+    "http-errors": "^2.0.0",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.0"
+  },
+  "keywords": [],
+  "description": ""
+}
