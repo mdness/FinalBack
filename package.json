@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdness/Backend-Coder.git"
+    "url": "git+https://github.com/mdness/Project-Backend.git"
   },
   "author": "",
   "license": "ISC",
@@ -20,9 +20,9 @@
     "nodemon": "^2.0.20"
   },
   "bugs": {
-    "url": "https://github.com/mdness/Backend-Coder/issues"
+    "url": "https://github.com/mdness/Project-Backend/issues"
   },
-  "homepage": "https://github.com/mdness/Backend-Coder#readme",
+  "homepage": "https://github.com/mdness/Project-Backend#readme",
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2",
